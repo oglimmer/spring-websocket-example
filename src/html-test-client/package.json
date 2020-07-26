@@ -1,0 +1,8 @@
+{
+  "name": "websocket-test-client",
+  "version": "0.0.1",
+  "description": "test client",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
